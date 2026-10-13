@@ -48,6 +48,28 @@ A selection of AI and interactive-experience projects, including collaborative h
 
 [View my Devpost portfolio](https://devpost.com/dalboni)
 
+## Bioinformatics research projects
+
+Collaborative research completed in the Bioinformatics Institute's 2018–2019 Algorithmic Bioinformatics program. The institute lists my work under my previous name, **Elena Polyakova** (now Elena Dalboni da Rocha).
+
+### Regulatory elements in promoters — autumn 2018
+
+A collaborative research project investigating regulatory elements in gene promoters.
+
+**Team:** Elena Polyakova and Daria Balashova. **Supervisor:** Tatiana Tatarinova, University of La Verne.
+
+[Project presentation (PDF)](https://bioinformaticsinstitute.ru/sites/default/files/polyakova_balashova_15122018.pdf)
+
+### Fish adaptation to depth — spring 2019
+
+A comparative bioinformatics project exploring fish adaptation to deep-water environments through rhodopsin (RH1) sequence analysis. Python and Jupyter notebooks document the exploratory analysis.
+
+**Team:** Elena Polyakova and Anna Namyatova. **Supervisor:** Nadezhda Potapova, Faculty of Bioengineering and Bioinformatics, Moscow State University.
+
+[Code and analysis: FishGenes](https://github.com/enterlina/FishGenes) · [Institute presentation (PDF)](https://bioinformaticsinstitute.ru/sites/default/files/polyakova_namyatova_-_adaptation_of_the_fish_to_depth.pdf) · [Presentation copy on GitHub](https://github.com/enterlina/FishGenes/blob/master/Polyakova%2C%20Namyatova%20-%20Adaptation%20of%20the%20fish%20to%20depth.pdf)
+
+[Bioinformatics Institute — graduate profile and project records](https://bioinf.me/graduates2018-19#!/tab/259037411-2)
+
 ## Public code and learning projects
 
 These repositories document parts of my development and computational biology background, including educational projects completed during my bioinformatics studies.
