@@ -6,7 +6,7 @@ I design complex digital products and build AI applications, connecting product 
 
 With 15+ years in UX and product design, I bring experience leading design alongside engineers, scientists, business analysts, and product teams. My background in mathematics and algorithmic bioinformatics helps me turn complex workflows into understandable, useful experiences.
 
-[Portfolio & case studies](https://buildnxt.app) · [LinkedIn](https://www.linkedin.com/in/elenadalboni/) · [Writing](https://medium.com/@elena.dalbonidarocha)
+[Portfolio & case studies](https://buildnxt.app) · [LinkedIn](https://www.linkedin.com/in/elenadalboni/) · [Writing](https://medium.com/@elena.dalbonidarocha) · [Devpost](https://devpost.com/dalboni)
 
 ## Current focus
 
@@ -34,6 +34,19 @@ An AI product concept and prototype exploring medication support for individuals
 At EPAM, my work included bioprocess tools, antibody discovery workflows, laboratory interfaces, and enterprise platforms. I connect domain research and product direction with interaction design and engineering collaboration.
 
 [Explore the portfolio](https://buildnxt.app)
+
+## Hackathon projects on Devpost
+
+A selection of AI and interactive-experience projects, including collaborative hackathon work. Each link includes the original project story, demo, and team credits.
+
+| Project | Short description |
+| --- | --- |
+| [Bomboloo — a kid-friendly AI assistant](https://devpost.com/software/bomboloo-a-kid-friendly-ai-assistant) | An AI learning prototype that uses animal characters to help children explore weather-appropriate clothing, early learning, and everyday decisions. Built by our team with Gemini, Stable Diffusion, Vue, and Node.js/TypeScript. My role: design, user testing, and project management. |
+| [VibezAI — MITx Group Project](https://devpost.com/software/mitx-group-project) | A collaborative Google AI Hackathon project that turns a simple form into social posts and images for small businesses. Built with Python, Streamlit, Gemini, and Google Cloud Vertex AI to make content creation approachable without advanced prompting skills. |
+| [mVibe — AI-powered scent platform](https://devpost.com/software/s-scent) | A hackathon prototype exploring personalized scent experiences based on music, mood, and context, combining a digital interface with smart-diffuser concepts. The project uses Bolt, OpenAI, Spotify, and Tavus. |
+| [Cooking Hunt](https://devpost.com/software/language-exchange-hub) | An interactive Meta Horizon experience where players solve ingredient clues and discover recipes and food cultures. Combines educational game design with mobile/VR interactions using Horizon tools and TypeScript. |
+
+[View my Devpost portfolio](https://devpost.com/dalboni)
 
 ## Public code and learning projects
 
