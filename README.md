@@ -64,13 +64,13 @@ A selection of AI and interactive-experience projects, including collaborative h
 
 Collaborative research completed in the Bioinformatics Institute's 2018–2019 Algorithmic Bioinformatics program. The institute lists my work under my previous name, **Elena Polyakova** (now Elena Dalboni da Rocha).
 
-### Regulatory elements in promoters — autumn 2018
+### Finding of cis-regulatory elements in promoters — University of La Verne, 2018
 
-A collaborative research project investigating regulatory elements in gene promoters.
+Collaborative bioinformatics research exploring how patterns in DNA promoter sequences relate to gene expression. We developed **cisExpress**, a computational approach for detecting statistically significant, position-specific regulatory motifs, clustering related sequence patterns, and analyzing their changes over time using **Hidden Markov Models**. The work also included interactive visualizations to help explore potential regulatory signals relevant to complex diseases.
 
-**Team:** Elena Polyakova and Daria Balashova. **Supervisor:** Tatiana Tatarinova, University of La Verne.
+**Researchers:** Elena Polyakova (now Elena Dalboni da Rocha) and Daria Balashova. **Scientific adviser:** Tatiana Tatarinova, University of La Verne.
 
-[Project presentation (PDF)](https://bioinformaticsinstitute.ru/sites/default/files/polyakova_balashova_15122018.pdf)
+[Project abstract — Bioinformatics Institute (2018/19)](https://bioinf.me/rp1819) *(see “Finding of cis-regulatory elements in promoters” under Fall 2018)*. The historical slide PDF is currently unavailable, so the institute's project record is the primary reference.
 
 ### Fish adaptation to depth — spring 2019
 
