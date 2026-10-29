@@ -1,8 +1,8 @@
 # Elena Dalboni da Rocha
 
-**Lead Experience Designer · AI Product Designer · Design Engineer**
+**Lead Product & Experience Designer · AI Engineer · Design Engineer**
 
-I design complex digital products and build AI applications, connecting product strategy, user research, interaction design, and hands-on development. My work spans healthcare, life sciences, enterprise software, and generative AI products.
+I work at the intersection of **AI engineering and product design** — building, evaluating, and shaping AI-powered applications, from retrieval pipelines and LLM experiments to end-to-end product experiences. My work spans healthcare, life sciences, enterprise software, and generative AI products.
 
 With 15+ years in UX and product design, I bring experience leading design alongside engineers, scientists, business analysts, and product teams. My background in mathematics and algorithmic bioinformatics helps me turn complex workflows into understandable, useful experiences.
 
@@ -14,6 +14,18 @@ With 15+ years in UX and product design, I bring experience leading design along
 - **Applied AI engineering:** connecting generative AI APIs with usable mobile applications and product workflows.
 - **Agentic design:** exploring how AI agents can support research, prototyping, evaluation, and continuous improvement.
 - **Healthcare and life sciences:** designing for scientific workflows, complex information, and informed human decisions.
+
+## AI Engineering portfolio
+
+I am expanding my hands-on AI engineering work alongside my 15+ years of product and experience design. I focus on **LLM evaluation, retrieval-augmented generation (RAG), information retrieval, reranking, and evidence-based evaluation** — connecting model behavior and technical metrics to useful, trustworthy products.
+
+**[Explore my AI Engineering projects →](https://github.com/enterlina/ai-engineering)**
+
+| Featured project | What I built | Results |
+| --- | --- | --- |
+| [FilmScope RAG Assistant](https://github.com/enterlina/ai-engineering/tree/main/projects/filmoskop-rag) | Russian-language support assistant with corpus preparation, hybrid BM25 + dense retrieval, cross-encoder reranking, grounded generation, and retrieval evaluation. | **Recall@5: 0.9464 · MRR: 0.8296** |
+
+More experiments in LLM benchmarking and applied AI systems are in progress. Each published case study explains the engineering challenge, implementation, evaluation approach, and trade-offs.
 
 ## Selected product work
 
@@ -98,6 +110,6 @@ A perspective on how agents could support the product design lifecycle, with des
 
 ## Connect
 
-Open to Lead/Staff Product Design, Experience Design, and Design Engineering opportunities, and collaboration on useful AI products.
+Open to **Lead/Staff Product Design, AI Product Design, Design Engineering, and applied AI Engineering** opportunities, and collaboration on useful AI products.
 
 [View my work](https://buildnxt.app) · [Connect on LinkedIn](https://www.linkedin.com/in/elenadalboni/)
