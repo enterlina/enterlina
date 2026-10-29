@@ -23,7 +23,7 @@ I am expanding my hands-on AI engineering work alongside my 15+ years of product
 
 | Featured project | What I built | Results |
 | --- | --- | --- |
-| [FilmScope RAG Assistant](https://github.com/enterlina/ai-engineering/tree/main/projects/filmoskop-rag) | Russian-language support assistant with corpus preparation, hybrid BM25 + dense retrieval, cross-encoder reranking, grounded generation, and retrieval evaluation. | **Recall@5: 0.9464 · MRR: 0.8296** |
+| [FilmScope RAG Assistant](https://github.com/enterlina/ai-engineering/blob/main/projects/filmoskop-rag/README.md) | Russian-language support assistant with corpus preparation, hybrid BM25 + dense retrieval, cross-encoder reranking, grounded generation, and retrieval evaluation. | **Recall@5: 0.9464 · MRR: 0.8296** |
 | [LLM Product Card Generation](https://github.com/enterlina/ai-engineering/tree/main/projects/llm-product-card-generation) | Structured e-commerce card generation with Qwen2.5-1.5B, schema validation, inference benchmarking, concurrency and cost analysis. | **88.33% valid · 5.51 min / 300 · 19.89 RUB/1k estimated** |
 
 These case studies document the engineering challenge, implementation, evaluation approach, metrics, and trade-offs.
